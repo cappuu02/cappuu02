@@ -10,4 +10,4 @@ I'm Luca, I am a student at the university of rome la sapienza. I am currently a
 
 ## Let's connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/yourprofile/)
+
