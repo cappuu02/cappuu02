@@ -1,11 +1,10 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate developer and tech enthusiast.
+I'm [Luca], I am a student at the university of rome la sapienza. I am currently attending the cybersecurity specialist choir. I am an undergraduate at the university deli studi di perugia where i am about to graduate in the L-31 computer science course of the three year duration.
 
-- 🔭 Currently working on **[Your Project](link-to-project)**
-- 🌱 Learning **JavaScript, React, and Python**
+- 🔭 Currently working on some **Web Development project**
+- 🌱 Learning **JavaScript, React and Node**
 - 💬 Ask me about **web development, open source, and more!**
-- ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cappuu02&show_icons=true&theme=radical)
 
