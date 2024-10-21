@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**cappuu02/cappuu02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name], a passionate developer and tech enthusiast.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on **[Your Project](link-to-project)**
+- 🌱 Learning **JavaScript, React, and Python**
+- 💬 Ask me about **web development, open source, and more!**
+- ⚡ Fun fact: I love solving puzzles and playing chess.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## Let's connect:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/yourprofile/)
