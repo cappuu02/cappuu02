@@ -7,7 +7,7 @@ I'm [Your Name], a passionate developer and tech enthusiast.
 - 💬 Ask me about **web development, open source, and more!**
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cappuu02&show_icons=true&theme=radical)
 
 ## Let's connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile/)
