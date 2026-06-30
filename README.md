@@ -40,8 +40,7 @@ I am passionate about both offensive and defensive security, and I actively stre
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
 
 **Security & Kernel**
 
